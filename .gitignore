@@ -1,0 +1,4 @@
+node_modules/
+procfile
+pakage-lock.json
+uploads/
